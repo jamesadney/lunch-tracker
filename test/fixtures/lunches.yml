@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  meal: MyText
+  time: 2013-05-08 15:23:50
+  calories: 1
+
+two:
+  meal: MyText
+  time: 2013-05-08 15:23:50
+  calories: 1
